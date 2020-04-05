@@ -1,7 +1,7 @@
 import 'isomorphic-fetch';
 
 export * from './settings';
-export * from './interfaces';
+export * from './types';
 export { isElectron } from './util';
 export { transformSource, transformPluginFile } from './plugins/transform';
 
